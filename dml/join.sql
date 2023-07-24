@@ -16,6 +16,8 @@ values
     
 select * from product_color_tb;
 
+
+
 insert into registered_product_tb
 values
 	(0, 1, 1),
